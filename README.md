@@ -62,4 +62,5 @@ All credits to original author - https://github.com/ClearVision/ClearVision-v6
 </br>
 This page provides a quick tutorial on how to set up my modified purple theme and change the background, thanks for reading until the end.
 
+![image](https://github.com/user-attachments/assets/9522d7bc-d981-4a1c-b423-c33b13f5f578)
 
